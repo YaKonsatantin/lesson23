@@ -1,1 +1,1 @@
-simple aplication pick_a_card"# pick_card" 
+simple aplication pick_card  pick_card" 
